@@ -30,30 +30,30 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/mohammadnazm/react.js-node.js-socket.io-project.git
 
-# Step 1: Install dependencies:
+## Step 1: Install dependencies:
 
-# Step 2: Install dependencies for the server
+## Step 2: Install dependencies for the server
 - cd server
 - npm start
 
-# Step 3: Install dependencies for the client
+## Step 3: Install dependencies for the client
 - cd client
 - npm start
 
-# Step 4: Start the server
+## Step 4: Start the server
 - cd server
 - npm start
 
-# Step 5: Start the client
+## Step 5: Start the client
 - cd client
 - npm start
 
 Open your browser and navigate to http://localhost:3000 to see the application in action.
 
-# Contributing
+## Contributing
 Contributions are welcome! If you find any issues or would like to enhance the project, feel free to open a pull request. Please follow the existing coding style and guidelines when contributing.
 
-# License
+## License
 This project is licensed under the MIT License.
 
 
